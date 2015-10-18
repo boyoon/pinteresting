@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.1.5'
 
 gem 'rails', '4.1.8'
 gem 'sass-rails', '~> 4.0.3'
@@ -12,7 +13,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'bootstrap-sass'
 gem 'execjs'
 gem 'coffee-script-source', '1.8.0'
-
+gem 'devise'
 
 group :development, :test do
 	gem 'sqlite3'
