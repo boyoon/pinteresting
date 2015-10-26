@@ -14,6 +14,7 @@ gem 'bootstrap-sass'
 gem 'execjs'
 gem 'coffee-script-source', '1.8.0'
 gem 'devise'
+gem 'paperclip', '~> 4.2'
 
 group :development, :test do
 	gem 'sqlite3'
