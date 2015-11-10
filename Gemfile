@@ -15,6 +15,7 @@ gem 'execjs'
 gem 'coffee-script-source', '1.8.0'
 gem 'devise'
 gem 'paperclip', '~> 3.0'
+gem 'aws-sdk', '~>1.16.1'
 
 group :development, :test do
 	gem 'sqlite3'
